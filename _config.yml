@@ -37,15 +37,15 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
+linkedin: lucyshettel
+github: lucyshettel
 email: lucy.shettel@temple.edu
 
 authors:
   lucyshettel:
     name: Lucy Shettel
     bio: Bioinformatics Student and Researcher
-    external-image: false
+    external-image: true
     picture: assets/images/Lucy_headshot.jpeg
     #twitter: johndoe
   # jamesfoster:
