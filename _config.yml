@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: assets/images/lucy.jpeg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assests/Lucy_Shettel_Resume.pdf
 
 url: https://lucyshettel.github.io
 # your url: https://USERNAME.github.io
@@ -46,7 +46,7 @@ authors:
     name: Lucy Shettel
     bio: Bioinformatics Student and Researcher
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/Lucy_headshot.jpeg
     #twitter: johndoe
   # jamesfoster:
   #   name: James Foster
